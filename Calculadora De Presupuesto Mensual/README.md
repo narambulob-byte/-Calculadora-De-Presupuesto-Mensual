@@ -1,4 +1,4 @@
-# Calculadora de Presupuesto Mensual — README
+# Calculadora de Presupuesto Mensual_Caso3 — README
 
 ##  Descripción del Caso
 La aplicación **Calculadora de Presupuesto Mensual** permite registrar ingresos y gastos para generar un balance financiero mensual. Su propósito es ayudar a los usuarios a gestionar su economía personal, ofreciendo un informe claro y detallado del estado de sus finanzas.
