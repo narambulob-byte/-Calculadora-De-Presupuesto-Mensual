@@ -33,45 +33,45 @@ industria del software.
 
 # Ventajas de usar Markdown en combinación con GitHub
 
-## 1. Control de versiones
+## 1. Control de versiones:
 
 GitHub controla el historial de cambios de cada archivo `.md`,
 permitiendo: - Comparar versiones - Revisar modificaciones línea por
 línea - Revertir cambios fácilmente
 
-## 2. Renderizado automático
+## 2. Renderizado automático:
 
 GitHub muestra los archivos Markdown ya formateados, con: - Títulos -
 Tablas - Listas - Enlaces - Código
 
 Esto hace que la documentación sea clara y profesional.
 
-## 3. Colaboración eficiente
+## 3. Colaboración eficiente:
 
 Permite que varios desarrolladores editen el mismo archivo: - Haciendo
 commits - Revisando cambios - Haciendo pull requests
 
 Todo desde la plataforma sin herramientas externas.
 
-## 4. Archivos ligeros y portables
+## 4. Archivos ligeros y portables:
 
 Markdown es solo texto plano: - Se puede abrir en cualquier editor - No
 pesa casi nada - Se integra con cualquier repositorio
 
-## 5. Compatibilidad ampliada
+## 5. Compatibilidad ampliada::
 
 GitHub soporta extensiones de Markdown como: - Listas de tareas `[ ]` -
 Fragmentos de código con colores - Tablas avanzadas - Enlaces
 automáticos - Citas
 
-## 6. Documentación centralizada
+## 6. Documentación centralizada:
 
 Toda la documentación del proyecto se mantiene ordenada dentro del
 repositorio y siempre al día con el código.
 
 ------------------------------------------------------------------------
 
-# Conclusión
+# Conclusión:
 
 Markdown es una de las herramientas más importantes en el desarrollo de
 software porque permite documentar de manera sencilla, rápida y
